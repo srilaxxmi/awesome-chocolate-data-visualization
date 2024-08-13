@@ -1,4 +1,4 @@
-# awesome-chocolate-data-visualization
+# Awesome Chocolate Data Visualization
 
 ## Portofolio Project
 This portfolio was created as a homework assignment using a simple business question. The learning source I used to study data visualization is Chandoo's YouTube channel, and I am using the same dataset as him.
